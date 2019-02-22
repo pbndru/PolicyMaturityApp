@@ -1,0 +1,14 @@
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.BusinessLayer.pdb
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.Interfaces.pdb
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\jaya.mathala\Desktop\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.BusinessLayer.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\bin\Debug\PolicyMaturity.Interfaces.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.BusinessLayer\obj\Debug\PolicyMaturity.BusinessLayer.pdb

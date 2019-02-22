@@ -1,0 +1,4 @@
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Interfaces\bin\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Interfaces\bin\Debug\PolicyMaturity.Interfaces.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Interfaces\obj\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Interfaces\obj\Debug\PolicyMaturity.Interfaces.pdb

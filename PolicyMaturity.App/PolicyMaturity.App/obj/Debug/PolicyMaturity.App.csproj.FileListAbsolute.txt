@@ -1,0 +1,10 @@
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.App.exe.config
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.App.exe
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.App.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.BusinessLayer.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\bin\Debug\PolicyMaturity.Interfaces.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\obj\Debug\PolicyMaturity.App.csprojResolveAssemblyReference.cache
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\obj\Debug\PolicyMaturity.App.exe
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.App\obj\Debug\PolicyMaturity.App.pdb

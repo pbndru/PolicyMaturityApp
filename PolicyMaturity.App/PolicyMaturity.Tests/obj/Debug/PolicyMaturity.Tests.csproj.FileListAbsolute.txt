@@ -1,0 +1,13 @@
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.Tests.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.Tests.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\Moq.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.BusinessLayer.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.Interfaces.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.BusinessLayer.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\PolicyMaturity.Interfaces.pdb
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\Moq.xml
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\obj\Debug\PolicyMaturity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\obj\Debug\PolicyMaturity.Tests.dll
+C:\Users\bandarup\Desktop\PolicyMaturity\PolicyMaturity.App\PolicyMaturity.Tests\obj\Debug\PolicyMaturity.Tests.pdb
